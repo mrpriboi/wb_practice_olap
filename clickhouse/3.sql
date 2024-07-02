@@ -1,0 +1,7 @@
+CREATE DATABASE stg;
+
+CREATE DATABASE history;
+
+CREATE DATABASE current;
+
+CREATE DATABASE direct_log;
